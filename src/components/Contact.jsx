@@ -1,6 +1,5 @@
 /* eslint-disable react/no-unescaped-entities */
 import { SiGithub, SiLinkedin, SiInstagram, SiGmail } from "react-icons/si";
-
 const Contact = () => {
   return (
     <>
