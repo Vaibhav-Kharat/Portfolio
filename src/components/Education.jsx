@@ -1,5 +1,5 @@
 import Lottie from "lottie-react";
-import education from "../assets/lottie/education.json";
+import education from "../assets/lottie/Education.json";
 import mit_logo from "../assets/mit_logo.jpeg";
 import AOS from "aos";
 import "aos/dist/aos.css";
